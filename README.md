@@ -5,6 +5,8 @@
 Actualmente desarrollo proyectos de análisis de datos utilizando **Python, análisis exploratorio de datos y visualización** para descubrir patrones y generar insights.
 
 [![Discord Shield](https://img.shields.io/badge/linkedin-perfil-blue?logo=linkedin&link=www.linkedin.com%2Fin%2Fjeanpiere-diaz-vela)]()
+![Static Badge](https://img.shields.io/badge/linkedin-perfil-blue?logo=linkedin&link=www.linkedin.com%2Fin%2Fjeanpiere-diaz-vela)
+
 ---
 
 # 🚀 Proyecto Destacado
