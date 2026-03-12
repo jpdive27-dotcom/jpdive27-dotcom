@@ -56,13 +56,3 @@ Git
 # 🎯 Objetivo profesional
 
 Mi objetivo es desarrollarme como **Data Analyst**, utilizando datos para descubrir insights que ayuden a mejorar la toma de decisiones en las organizaciones.
-
----
-
-# 📫 Contacto
-
-GitHub  
-https://github.com/jpdive27-dotcom
-
-LinkedIn  
-(Añade aquí tu enlace de LinkedIn)
